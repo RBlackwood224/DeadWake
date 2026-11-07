@@ -15,6 +15,8 @@ html, body { margin: 0; height: 100%; overflow: hidden; background: #000; font-f
 .phud { position: absolute; overflow: hidden; }
 .phud + .phud { border-top: 3px solid #000; }
 .cross { position: absolute; left: 50%; top: 50%; width: 4px; height: 4px; margin: -2px 0 0 -2px; background: #fff; box-shadow: 0 0 0 1px #000; }
+.qline { position: absolute; top: 44px; left: 50%; transform: translateX(-50%); max-width: 70%; display: none; padding: 3px 12px; background: var(--dark); color: #f0d890; font-size: 13px; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.compass .qmark { position: absolute; top: 4px; transform: translateX(-50%); color: #ff5a3a; font-size: 16px; text-shadow: 0 0 3px #000; }
 .compass { position: absolute; top: 10px; left: 50%; width: 420px; max-width: 70%; height: 30px; transform: translateX(-50%); background: linear-gradient(90deg, transparent, var(--dark) 15%, var(--dark) 85%, transparent); overflow: hidden; }
 .compass span { position: absolute; top: 5px; transform: translateX(-50%); font-size: 16px; }
 .compass .mj { font-weight: 700; color: #fff; } .compass .mn { font-size: 12px; top: 8px; opacity: .7; }
@@ -88,6 +90,14 @@ html, body { margin: 0; height: 100%; overflow: hidden; background: #000; font-f
 #menu input { font-family: inherit; font-size: 22px; width: 160px; text-align: center; letter-spacing: 4px; text-transform: uppercase; background: #1a120c; color: #fff; border: 2px solid #6a4a2a; padding: 6px; }
 #menu .status { min-height: 24px; color: var(--gold); margin: 6px 0; } #menu .room { font-size: 20px; margin-bottom: 10px; } #menu .room b { color: var(--gold); letter-spacing: 3px; }
 @media (max-width: 760px) { .ship { width: 200px; font-size: 11px; } .slot { padding: 3px 6px; font-size: 11px; } .compass { width: 260px; } #menu .help { columns: 1; } }
+.fishbar{position:absolute;left:50%;top:62%;transform:translateX(-50%);width:220px;display:none;font:12px monospace;color:#f0e8d0;text-shadow:1px 1px 0 #000;text-align:center}.fishbar .fb{height:7px;background:rgba(0,0,0,.5);margin-top:4px;border:1px solid #000}.fishbar .fb i{display:block;height:100%}
+body.photo .phud,body.photo .hud,body.photo #hud{display:none!important}
+.logbook{position:absolute;inset:0;display:none;align-items:center;justify-content:center;background:rgba(10,8,6,.55);z-index:30}
+.logbook .panel{width:min(720px,94%);max-height:90%;overflow:auto;background:#e8d9b4;color:#2a1c10;border:4px solid #5a3a1a;padding:14px 18px;font:13px monospace;box-shadow:0 0 0 2px #2a1c10}
+.logbook h2{margin:0 0 8px;font-size:20px}.logbook h3{margin:10px 0 4px;font-size:14px;border-bottom:1px solid #8a6a40}
+.logbook .cols{display:flex;gap:18px;flex-wrap:wrap}.logbook .cols>div{flex:1;min-width:240px}.logbook td{padding:1px 8px 1px 0}.logbook td:last-child{text-align:right;font-weight:bold}
+.logbook ul{list-style:none;padding:0;margin:0}.logbook .achs li{color:#8a7a60}.logbook .achs li.on{color:#2a1c10;font-weight:bold}.logbook .diary li{margin:2px 0}
+.logbook .rbar{height:8px;background:#b8a078;border:1px solid #5a3a1a;margin:4px 0}.logbook .rbar i{display:block;height:100%;background:linear-gradient(90deg,#a03020,#c8a040,#40a050)}.logbook .hint{opacity:.7;margin-top:10px}
 </style>
 </head>
 <body>
