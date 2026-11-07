@@ -57,7 +57,7 @@ Choisissez l'un des quatre navires sur l'écran titre (ou chez le charpentier du
 | Nézelődés / Look / Regarder | egér / mouse | jobb kar / right stick |
 | Futás / Sprint / Courir | Shift | bal kar lenyomva / L3 |
 | Ugrás, úszás fel / Jump, swim up / Sauter | Szóköz / Space | A |
-| Lemerülés / Dive / Plonger | C / Ctrl | B |
+| Lemerülés / Dive / Plonger | C | B |
 | Használat / Use / Utiliser | E | X |
 | Kard, lövés, ásás, javítás / Attack, shoot, dig, repair | bal egérgomb / left mouse | RT |
 | Töltés / Load / Charger | R | Y |
