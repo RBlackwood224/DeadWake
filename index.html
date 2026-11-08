@@ -54,6 +54,7 @@ html, body { margin: 0; height: 100%; overflow: hidden; background: #000; font-f
 .ov { position: absolute; inset: 0; display: none; align-items: center; justify-content: center; flex-direction: column; background: rgba(0, 0, 0, .55); }
 .ov canvas { image-rendering: pixelated; border: 6px solid #6a4a2a; box-shadow: 0 10px 40px #000; max-width: 92%; max-height: 92%; aspect-ratio: 1; height: 80%; }
 .tmap canvas { height: 62%; transform: rotate(-2deg); }
+.chart canvas { pointer-events: auto; cursor: crosshair; }
 .riddle { margin-top: 14px; max-width: 70%; font-size: 20px; color: #f6e2b0; text-align: center; background: var(--dark); padding: 8px 14px; }
 .riddle:empty { display: none; }
 .cross.hit { animation: hitm .18s; } @keyframes hitm { 0% { background: #ff5040; transform: scale(3) rotate(45deg); } 100% { transform: scale(1); } }
