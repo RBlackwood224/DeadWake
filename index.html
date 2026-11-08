@@ -15,6 +15,7 @@ html, body { margin: 0; height: 100%; overflow: hidden; background: #000; font-f
 .phud { position: absolute; overflow: hidden; }
 .phud + .phud { border-top: 3px solid #000; }
 .cross { position: absolute; left: 50%; top: 50%; width: 4px; height: 4px; margin: -2px 0 0 -2px; background: #fff; box-shadow: 0 0 0 1px #000; }
+.shop .mname { margin: 6px 0 8px; font-size: 14px; } .shop .mname input { font-family: inherit; font-size: 15px; padding: 3px 6px; width: 180px; background: #1a120c; color: var(--ink); border: 2px solid #6a4a2a; } .shop #mnmsg { color: #ff9a7a; font-size: 12px; }
 .qline { position: absolute; top: 44px; left: 50%; transform: translateX(-50%); max-width: 70%; display: none; padding: 3px 12px; background: var(--dark); color: #f0d890; font-size: 13px; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .compass .qmark { position: absolute; top: 4px; transform: translateX(-50%); color: #ff5a3a; font-size: 16px; text-shadow: 0 0 3px #000; }
 .compass { position: absolute; top: 10px; left: 50%; width: 420px; max-width: 70%; height: 30px; transform: translateX(-50%); background: linear-gradient(90deg, transparent, var(--dark) 15%, var(--dark) 85%, transparent); overflow: hidden; }
@@ -25,6 +26,9 @@ html, body { margin: 0; height: 100%; overflow: hidden; background: #000; font-f
 .boss { display: none; position: absolute; top: 50px; left: 50%; transform: translateX(-50%); width: 420px; max-width: 70%; text-align: center; }
 .boss .bname { font-size: 15px; color: #9affc8; margin-bottom: 3px; } .boss .bbar { height: 10px; background: #111; border: 2px solid #000; } .boss .bfill { height: 100%; background: linear-gradient(#5adf9a, #1e8a5a); }
 .hp { position: absolute; left: 18px; bottom: 20px; width: 220px; height: 14px; background: var(--dark); border: 2px solid #000; }
+.gold .season { margin-left: 10px; font-size: 13px; padding: 1px 6px; background: rgba(20,12,8,0.45); } .season.s0 { color: #ffb0c8; } .season.s1 { color: #ffe070; } .season.s2 { color: #f0a050; } .season.s3 { color: #c8e8ff; }
+.air { position: absolute; left: 18px; bottom: 40px; width: 220px; height: 8px; background: var(--dark); border: 2px solid #000; display: none; }
+.airfill { height: 100%; background: linear-gradient(#bfe8ff, #4a9ad8); } .airfill.low { animation: blink .4s infinite; }
 .hpfill { height: 100%; background: linear-gradient(#e85a4a, #a8281e); transition: width .2s; } .hpfill.low { animation: blink .6s infinite; }
 @keyframes blink { 50% { opacity: .4; } }
 .tools { position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%); display: flex; gap: 6px; }
@@ -84,6 +88,12 @@ html, body { margin: 0; height: 100%; overflow: hidden; background: #000; font-f
 #menu button.slide { display: inline-flex; align-items: center; gap: 10px; }
 #menu button.slide input { width: 120px; accent-color: #f0c040; cursor: pointer; }
 #menu button.slide b { min-width: 42px; text-align: right; font-weight: normal; }
+#menu .profile { display: flex; gap: 14px; align-items: center; justify-content: center; margin: 6px auto 10px; background: rgba(20, 14, 10, .6); padding: 8px 12px; max-width: 600px; }
+#menu .portrait { image-rendering: pixelated; background: rgba(120, 160, 190, .25); border: 2px solid #6a4a2a; width: 80px; height: 160px; }
+#menu .pfields { text-align: left; } #menu .pfields label { display: block; font-size: 15px; } #menu .pfields input { font-family: inherit; font-size: 17px; padding: 5px 8px; margin-left: 8px; width: 220px; background: #1a120c; color: var(--ink); border: 2px solid #6a4a2a; }
+#menu .pmsg { color: #ff9a7a; min-height: 18px; font-size: 13px; margin: 3px 0; } #menu .pfields .opts { justify-content: flex-start; margin-top: 2px; } #menu .pfields .opts button { font-size: 14px; padding: 5px 10px; }
+#menu .roster { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 10px 0 14px; }
+#menu .pcard { background: rgba(20, 14, 10, .7); border: 2px solid #6a4a2a; padding: 8px 10px; min-width: 96px; } #menu .pcard canvas { image-rendering: pixelated; width: 64px; height: 128px; display: block; margin: 0 auto 4px; }
 #menu .opts { display: flex; flex-wrap: wrap; justify-content: center; margin-top: 10px; }
 #menu .help { margin-top: 14px; display: inline-block; text-align: left; background: rgba(20, 14, 10, .75); padding: 10px 16px; font-size: 14px; columns: 2; column-gap: 26px; }
 #menu .help h3 { margin: 0 0 6px; font-size: 16px; color: var(--gold); break-after: avoid; }
