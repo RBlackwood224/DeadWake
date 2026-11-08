@@ -27,17 +27,17 @@ Il faut une souris et un clavier ou une manette ; le jeu ne fonctionne pas sur t
 **HU**
 - **Osztott képernyő (2 fő):** a címképernyőn válaszd a „Két játékos, osztott képernyő” lehetőséget. Az egyik játékos billentyűzettel és egérrel, a másik kontrollerrel játszik.
 - **Online (legfeljebb 6 fő):** a kapitány az „Online közös játék” menüben a „Szoba létrehozása” gombra kattint, és megkapja az öt betűből álló szobakódot. A társak ugyanitt beírják a kódot, és a „Csatlakozás” gombra kattintanak.
-- **Előcsarnok:** online mindenki megad egy nevet (csúnya szavakat nem enged), és kiválasztja a kalóza kinézetét. A nevek a fejek felett látszanak; a kapitány a „Vitorlát fel, indulás!” gombbal indít.
+- **Előcsarnok:** online mindenki megad egy nevet (csúnya szavakat nem enged), és kiválasztja a kalóza kinézetét. A nevek a fejek felett látszanak; a kapitány elküldheti a szoba linkjét is (ezzel egyből be lehet lépni). Ha mindenki megnyomta a „Kész vagyok!” gombot, 5 másodperc múlva indul a játék; a kapitány bármikor elindíthatja, és itt állítja be a hajót és a nehézséget.
 
 **EN**
 - **Split screen (2 players):** on the title screen choose "Two players, split screen". One player uses keyboard and mouse, the other a controller.
 - **Online (up to 6 players):** the captain opens "Online co-op", clicks "Create a room" and gets a five-letter room code. The others enter the code in the same menu and click "Join".
-- **Lobby:** online everyone picks a name (rude words are not allowed) and their pirate's look. Names float above heads; the captain starts with "Make sail, away we go!".
+- **Lobby:** online everyone picks a name (rude words are not allowed) and their pirate's look. Names float above heads; the captain can also share the room link (opening it joins directly). When everyone has pressed "I'm ready!", the game starts after 5 seconds; the captain can start any time and picks the ship and difficulty here.
 
 **FR**
 - **Écran partagé (2 joueurs) :** sur l'écran titre, choisissez « Deux joueurs, écran partagé ». L'un joue au clavier et à la souris, l'autre à la manette.
 - **En ligne (jusqu'à 6 joueurs) :** le capitaine ouvre « Coopération en ligne », clique sur « Créer un salon » et reçoit un code de cinq lettres. Les autres saisissent ce code dans le même menu et cliquent sur « Rejoindre ».
-- **Salon :** en ligne, chacun choisit un nom (les gros mots sont refusés) et l'apparence de son pirate. Les noms flottent au-dessus des têtes ; le capitaine lance la partie avec « Toutes voiles dehors ! ».
+- **Salon :** en ligne, chacun choisit un nom (les gros mots sont refusés) et l'apparence de son pirate. Les noms flottent au-dessus des têtes ; le capitaine peut aussi partager le lien du salon (il suffit de l'ouvrir pour rejoindre). Quand tout le monde a appuyé sur « Je suis prêt ! », la partie démarre 5 secondes plus tard ; le capitaine peut lancer à tout moment et choisit ici le navire et la difficulté.
 
 ## Hajók / Ships / Navires
 
