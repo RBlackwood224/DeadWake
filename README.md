@@ -64,9 +64,10 @@ Choisissez l'un des quatre navires sur l'écran titre (ou chez le charpentier du
 | Használat / Use / Utiliser | E | X |
 | Kard, lövés, ásás, javítás / Attack, shoot, dig, repair | bal egérgomb / left mouse | RT |
 | Töltés / Load / Charger | R | Y |
-| Eszközváltás / Switch tool | 1–6, görgő / wheel | LB / RB |
+| Eszközváltás / Switch tool | 1–7, görgő / wheel | LB / RB |
 | Lőszerfajta az ágyúnál / Shot type at a cannon | görgő / wheel | LB / RB |
-| Kincses térkép / Treasure map | Tab (tartva / hold) | fel / up |
+| Kincses térkép a kézben / Treasure map in hand | 7 (jobb egér: közelebb, R: következő / right mouse: closer, R: next) | – |
+| Kapitányi lap, szavazás / Captain's sheet, vote | Tab | fel / up |
 | Távcső / Spyglass / Longue-vue | jobb egérgomb / right mouse | LT |
 | Védekezés karddal / Block with the cutlass | jobb egérgomb / right mouse | LT |
 | Hordó eldobása / Throw a keg | bal egérgomb / left mouse | RT |
@@ -97,6 +98,7 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Legénység:** a felbérelt matrózok nevet kapnak, tapasztalatot gyűjtenek és szintet lépnek. Hajómacska vagy -kutya, patkányok a raktérben, jelölések a tengeri térképen.
 - **Események:** a királyi flotta üldözi a körözött legénységet, éjjel szellemflotta bukkanhat fel, a távolban flották csatáznak. Hajóverseny, szabó, és címek a nevek alatt.
 - **Évszakok:** 7 játéknaponként vált az évszak, és vele a táj színe, az időjárás, a halak, a feladatok és a hajódíszek. Télen északon befagy a tenger: a jégtáblák lassítanak és sértik a hajót, a jéghegyeken zátonyra futhatsz. Jégtörő orr és fűtött raktér a hajóácsnál.
+- **Térképek és szavazás:** a kincses térképet a 7-es gombbal veszed kézbe. A Tab a kapitányi lapot nyitja meg: itt látod az összes térképet tippekkel, és online szavazhattok, merre menjen a hajó. A csillagtérkép éjjel egy igazi csillagképhez vezet, például a Göncölszekér mutatja a Sarkcsillagot. A vízoszlop meglökheti vagy fel is kaphatja a hajót.
 
 - **Notice board at the home outpost:** bounties on wanted captains, castaway rescues, powder runs, trader escorts and the Book of Legends (the lost expedition).
 - **The Crimson Widow:** a rare legendary pirate ship with an elite crew. Tavern rumours tell where she sails. Beat her to unlock a unique sail, flag and emblem.
@@ -109,6 +111,7 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Crew:** hired hands get names, gain experience and level up. A ship's cat or dog, rats in the hold, marks on the sea chart.
 - **Events:** the royal navy hunts wanted crews, a ghost fleet may rise at night, fleets battle in the distance. Ship races, a tailor, and titles under the names.
 - **Seasons:** every 7 in-game days the season turns, changing the colour of the land, the weather, the fish, the jobs and the ship decorations. In winter the far north freezes: floes slow and scrape the ship, and icebergs can wreck her. Icebreaker stem and heated hold at the shipwright.
+- **Maps and voting:** take the treasure map in hand with 7. Tab opens the captain's sheet: every map with hints, and online the crew votes where to sail. Star charts lead you towards a real constellation at night – the Plough points at the Pole Star. Waterspouts can shove the ship or even lift her.
 
 - **Tableau d'annonces au comptoir principal :** primes sur des capitaines recherchés, sauvetages de naufragés, transports de poudre, escortes de marchands et le Livre des légendes (l'expédition perdue).
 - **La Veuve Pourpre :** un navire pirate légendaire et rare, à l'équipage d'élite. Les rumeurs de taverne disent où elle navigue. Vainquez-la pour débloquer une voile, un pavillon et un emblème uniques.
@@ -121,6 +124,7 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Équipage :** les matelots engagés ont un nom, gagnent de l'expérience et des niveaux. Un chat ou un chien de bord, des rats dans la cale, des marques sur la carte marine.
 - **Événements :** la marine royale traque les équipages recherchés, une flotte fantôme peut surgir la nuit, des flottes s'affrontent au loin. Courses de navires, tailleur, et titres sous les noms.
 - **Saisons :** tous les 7 jours de jeu la saison change, et avec elle la couleur du paysage, la météo, les poissons, les missions et les décorations du navire. En hiver, le grand nord gèle : les glaces ralentissent et raclent le navire, et les icebergs peuvent le briser. Étrave brise-glace et cale chauffée chez le charpentier.
+- **Cartes et vote :** la touche 7 met la carte au trésor en main. Tab ouvre la feuille du capitaine : toutes les cartes avec des indices, et en ligne l'équipage vote pour la destination. Les cartes des étoiles mènent la nuit vers une vraie constellation – la Grande Ourse désigne l'étoile Polaire. Les trombes peuvent bousculer le navire, voire le soulever.
 
 ## Kézikönyv / Manual / Manuel
 
