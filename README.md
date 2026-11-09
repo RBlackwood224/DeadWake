@@ -64,7 +64,9 @@ Choisissez l'un des quatre navires sur l'écran titre (ou chez le charpentier du
 | Használat / Use / Utiliser | E | X |
 | Kard, lövés, ásás, javítás / Attack, shoot, dig, repair | bal egérgomb / left mouse | RT |
 | Töltés / Load / Charger | R | Y |
-| Eszközváltás / Switch tool | 1–7, görgő / wheel | LB / RB |
+| Eszközváltás / Switch tool | 1–8, görgő / wheel | LB / RB |
+| Eszköztárcsa / Tool wheel | görgő-kattintás, Q / wheel click, Q | – |
+| Evés / Eat | 8 (étel), bal egér / 8 (food), left mouse | RT |
 | Lőszerfajta az ágyúnál / Shot type at a cannon | görgő / wheel | LB / RB |
 | Kincses térkép a kézben / Treasure map in hand | 7 (jobb egér: közelebb, R: következő / right mouse: closer, R: next) | – |
 | Kapitányi lap, szavazás / Captain's sheet, vote | Tab | fel / up |
@@ -99,6 +101,9 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Események:** a királyi flotta üldözi a körözött legénységet, éjjel szellemflotta bukkanhat fel, a távolban flották csatáznak. Hajóverseny, szabó, és címek a nevek alatt.
 - **Évszakok:** 7 játéknaponként vált az évszak, és vele a táj színe, az időjárás, a halak, a feladatok és a hajódíszek. Télen északon befagy a tenger: a jégtáblák lassítanak és sértik a hajót, a jéghegyeken zátonyra futhatsz. Jégtörő orr és fűtött raktér a hajóácsnál.
 - **Térképek és szavazás:** a kincses térképet a 7-es gombbal veszed kézbe. A Tab a kapitányi lapot nyitja meg: itt látod az összes térképet tippekkel, és online szavazhattok, merre menjen a hajó. A csillagtérkép éjjel egy igazi csillagképhez vezet, például a Göncölszekér mutatja a Sarkcsillagot. A vízoszlop meglökheti vagy fel is kaphatja a hajót.
+- **Fejtörős küldetések:** napóra (az obeliszk árnyéka mutatja a kincset), őrszobrok (csillagképek felé fordítva nyílik az oltár), titkosított levél kódkerékkel, vízbe fúlt kapitány naplója, halrendelés, világítótornyok a konvojnak, kígyóvadászat.
+- **Nagy világ:** 10 × 10 km, közel 190 sziget és hat kikötő. A tengeri térkép görgővel nagyítható és húzással mozgatható, közelről látszik a szigetek domborzata és épületei.
+- **Legénység őrségben:** ha nincs dolguk, a korlátnál őrködnek, és jelentik a hajókat, szigeteket, roncsokat és a fogyó készleteket. Veszélyben a parancsod szerint dolgoznak.
 
 - **Notice board at the home outpost:** bounties on wanted captains, castaway rescues, powder runs, trader escorts and the Book of Legends (the lost expedition).
 - **The Crimson Widow:** a rare legendary pirate ship with an elite crew. Tavern rumours tell where she sails. Beat her to unlock a unique sail, flag and emblem.
@@ -112,6 +117,9 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Events:** the royal navy hunts wanted crews, a ghost fleet may rise at night, fleets battle in the distance. Ship races, a tailor, and titles under the names.
 - **Seasons:** every 7 in-game days the season turns, changing the colour of the land, the weather, the fish, the jobs and the ship decorations. In winter the far north freezes: floes slow and scrape the ship, and icebergs can wreck her. Icebreaker stem and heated hold at the shipwright.
 - **Maps and voting:** take the treasure map in hand with 7. Tab opens the captain's sheet: every map with hints, and online the crew votes where to sail. Star charts lead you towards a real constellation at night – the Plough points at the Pole Star. Waterspouts can shove the ship or even lift her.
+- **Puzzle jobs:** the sundial (an obelisk's shadow marks the treasure), the guardian statues (turned towards the constellations, they open the altar), a coded letter with a cipher wheel, a drowned captain's log, fish orders, lighthouses for the convoy, a serpent hunt.
+- **A big world:** 10 × 10 km, nearly 190 islands and six outposts. The sea chart zooms with the mouse wheel and pans by dragging; close up it shows the islands' hills and buildings.
+- **Crew on watch:** with nothing to do they keep a lookout at the rail and call out ships, islands, wrecks and stores running low. In danger they follow your orders.
 
 - **Tableau d'annonces au comptoir principal :** primes sur des capitaines recherchés, sauvetages de naufragés, transports de poudre, escortes de marchands et le Livre des légendes (l'expédition perdue).
 - **La Veuve Pourpre :** un navire pirate légendaire et rare, à l'équipage d'élite. Les rumeurs de taverne disent où elle navigue. Vainquez-la pour débloquer une voile, un pavillon et un emblème uniques.
@@ -125,6 +133,9 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Événements :** la marine royale traque les équipages recherchés, une flotte fantôme peut surgir la nuit, des flottes s'affrontent au loin. Courses de navires, tailleur, et titres sous les noms.
 - **Saisons :** tous les 7 jours de jeu la saison change, et avec elle la couleur du paysage, la météo, les poissons, les missions et les décorations du navire. En hiver, le grand nord gèle : les glaces ralentissent et raclent le navire, et les icebergs peuvent le briser. Étrave brise-glace et cale chauffée chez le charpentier.
 - **Cartes et vote :** la touche 7 met la carte au trésor en main. Tab ouvre la feuille du capitaine : toutes les cartes avec des indices, et en ligne l'équipage vote pour la destination. Les cartes des étoiles mènent la nuit vers une vraie constellation – la Grande Ourse désigne l'étoile Polaire. Les trombes peuvent bousculer le navire, voire le soulever.
+- **Missions à énigmes :** le cadran solaire (l'ombre de l'obélisque désigne le trésor), les statues gardiennes (tournées vers les constellations, elles ouvrent l'autel), une lettre codée et sa roue de chiffrement, le journal d'un capitaine noyé, des commandes de poissons, des phares pour le convoi, la chasse au serpent.
+- **Un grand monde :** 10 × 10 km, près de 190 îles et six comptoirs. La carte marine se zoome à la molette et se déplace en glissant ; de près elle montre le relief et les bâtiments des îles.
+- **L'équipage de quart :** sans tâche, il veille au bastingage et signale navires, îles, épaves et provisions qui s'épuisent. En danger, il suit vos ordres.
 
 ## Kézikönyv / Manual / Manuel
 

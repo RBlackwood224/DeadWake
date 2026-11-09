@@ -34,6 +34,12 @@ html, body { margin: 0; height: 100%; overflow: hidden; background: #000; font-f
 .tools { position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%); display: flex; gap: 6px; }
 .slot { background: var(--dark); border: 2px solid #3a2a1a; padding: 4px 10px 4px 6px; font-size: 14px; white-space: nowrap; }
 .slot i { font-style: normal; color: #aa9; margin-right: 6px; font-size: 11px; } .slot.on { border-color: var(--gold); color: #fff; }
+.twheel { position: absolute; inset: 0; pointer-events: none; display: none; }
+.twheel::before { content: ''; position: absolute; left: 50%; top: 50%; width: 330px; height: 330px; margin: -165px 0 0 -165px; border-radius: 50%; background: radial-gradient(circle, rgba(20,12,6,0.25) 0 30%, rgba(20,12,6,0.7) 31% 70%, rgba(20,12,6,0) 71%); border: 2px solid rgba(201,162,74,0.35); }
+.wsl { position: absolute; transform: translate(-50%, -50%); background: var(--dark); border: 2px solid #3a2a1a; padding: 5px 10px; font-size: 14px; text-align: center; white-space: nowrap; color: #ddd; }
+.wsl i { font-style: normal; color: #aa9; margin-right: 5px; font-size: 11px; } .wsl small { display: block; font-size: 11px; color: #c9a24a; }
+.wsl.on { border-color: var(--gold); color: #fff; transform: translate(-50%, -50%) scale(1.15); background: #3a2410; }
+.whint { position: absolute; left: 50%; top: calc(50% + 190px); transform: translateX(-50%); font-size: 12px; color: #cdb; text-shadow: 0 1px 2px #000; }
 .ship { position: absolute; right: 18px; bottom: 20px; width: 260px; background: var(--dark); border: 2px solid #3a2a1a; padding: 8px 10px; font-size: 13px; }
 .ship .row { display: flex; align-items: center; gap: 8px; justify-content: space-between; margin: 3px 0; } .ship .row.small { font-size: 12px; } .ship b { color: #fff; }
 .ship .bar { flex: 1; height: 10px; background: #222; border: 1px solid #000; } .ship .fill.water { height: 100%; background: #3a8ac8; }
