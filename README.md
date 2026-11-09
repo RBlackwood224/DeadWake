@@ -93,7 +93,7 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Új kincses térképek:** szakadt térkép három darabban, csak éjjel olvasható csillagtérkép, titkosírásos napló, kőtáblák legendája, és lépésszámos rejtvények sziklaívtől, hegycsúcstól vagy kráterből.
 - **Változatos szigetek:** hosszú földnyelvek, lagúnás félholdak, szigetcsoportok, füstölgő vulkánok, sziklafalas hegyek, kőívek és tengeri sziklatornyok.
 - **Harc közelről:** ha egy hajó legénysége elesik, a kapitány ládája a kabinban vár, a hajót pedig zsákmányként a kikötőbe vontathatod. Lőporos hordót dobhatsz, a karddal védekezhetsz és háríthatsz.
-- **Felfedezés:** barlangok csapdákkal és őrzőkkel, elsüllyedt templomok (figyelj a levegőre!), meggyújtható világítótornyok, egy rejtett csempészöböl orgazdával, és saját rejtekhely-sziget kincseskamrával.
+- **Felfedezés:** barlangok csapdákkal és őrzőkkel, elsüllyedt templomok és a tengerfenékre süllyedt hajóroncsok a kapitány ládájával (figyelj a levegőre és a cápákra!), meggyújtható világítótornyok, egy rejtett csempészöböl orgazdával, és saját rejtekhely-sziget kincseskamrával.
 - **Kereskedés:** rum, fűszer és selyem, kikötőnként és naponta változó árakkal. A kocsmában kockázni is lehet.
 - **Legénység:** a felbérelt matrózok nevet kapnak, tapasztalatot gyűjtenek és szintet lépnek. Hajómacska vagy -kutya, patkányok a raktérben, jelölések a tengeri térképen.
 - **Események:** a királyi flotta üldözi a körözött legénységet, éjjel szellemflotta bukkanhat fel, a távolban flották csatáznak. Hajóverseny, szabó, és címek a nevek alatt.
@@ -106,7 +106,7 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **New treasure maps:** a torn map in three pieces, a star map readable only at night, a cipher journal, the legend of the tablets, and pace riddles from rock arches, summits and craters.
 - **Varied islands:** long spits, crescents round a lagoon, clusters, smoking volcanoes, mountains with sea cliffs, rock arches and sea stacks.
 - **Close combat:** when a ship's crew falls, the captain's chest waits in the cabin and the ship can be towed to port as a prize. Throw powder kegs; block and parry with the cutlass.
-- **Exploration:** caves with traps and guardians, drowned temples (mind your air!), lighthouses to light, a hidden smugglers' cove with a fence, and a hideout island of your own with a treasure vault.
+- **Exploration:** caves with traps and guardians, drowned temples and ships sunk to the sea bed with the captain's chest (mind your air, and the sharks!), lighthouses to light, a hidden smugglers' cove with a fence, and a hideout island of your own with a treasure vault.
 - **Trade:** rum, spice and silk, with prices that change by port and by day. Dice at the tavern.
 - **Crew:** hired hands get names, gain experience and level up. A ship's cat or dog, rats in the hold, marks on the sea chart.
 - **Events:** the royal navy hunts wanted crews, a ghost fleet may rise at night, fleets battle in the distance. Ship races, a tailor, and titles under the names.
@@ -119,7 +119,7 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Nouvelles cartes au trésor :** carte déchirée en trois morceaux, carte des étoiles lisible seulement la nuit, journal chiffré, légende des tablettes, et énigmes à compter les pas depuis une arche, un sommet ou un cratère.
 - **Îles variées :** longues langues de terre, croissants autour d'un lagon, archipels, volcans fumants, montagnes à falaises, arches rocheuses et aiguilles marines.
 - **Combat rapproché :** quand l'équipage d'un navire tombe, le coffre du capitaine attend dans la cabine et le navire peut être remorqué au port comme prise. Lancez des barils de poudre ; parez avec le sabre.
-- **Exploration :** grottes à pièges et gardiens, temples engloutis (attention à l'air !), phares à rallumer, une crique de contrebandiers cachée avec un receleur, et votre propre île-repaire avec sa chambre forte.
+- **Exploration :** grottes à pièges et gardiens, temples engloutis et épaves gisant au fond avec le coffre du capitaine (attention à l'air et aux requins !), phares à rallumer, une crique de contrebandiers cachée avec un receleur, et votre propre île-repaire avec sa chambre forte.
 - **Commerce :** rhum, épices et soie, à des prix qui changent selon le port et le jour. Des dés à la taverne.
 - **Équipage :** les matelots engagés ont un nom, gagnent de l'expérience et des niveaux. Un chat ou un chien de bord, des rats dans la cale, des marques sur la carte marine.
 - **Événements :** la marine royale traque les équipages recherchés, une flotte fantôme peut surgir la nuit, des flottes s'affrontent au loin. Courses de navires, tailleur, et titres sous les noms.
