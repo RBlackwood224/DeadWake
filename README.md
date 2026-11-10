@@ -104,6 +104,7 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Fejtörős küldetések:** napóra (az obeliszk árnyéka mutatja a kincset), őrszobrok (csillagképek felé fordítva nyílik az oltár), titkosított levél kódkerékkel, vízbe fúlt kapitány naplója, halrendelés, világítótornyok a konvojnak, kígyóvadászat.
 - **Nagy világ:** 10 × 10 km, közel 190 sziget és hat kikötő. A tengeri térkép görgővel nagyítható és húzással mozgatható, közelről látszik a szigetek domborzata és épületei.
 - **Legénység őrségben:** ha nincs dolguk, a korlátnál őrködnek, és jelentik a hajókat, szigeteket, roncsokat és a fogyó készleteket. Veszélyben a parancsod szerint dolgoznak.
+- **Harc és szigetek:** a Kraken üldözi és erősen fogja a hajót (harcolj vele, vagy menekülj sekély vízbe), a királyi flotta egyenruhás tengerészgyalogosokkal abordál, új ágyú- és pisztolyhangok, könnyebben bejárható dombok. Süllyedés után a lidércfényes mentőöv visz át az új hajóra.
 
 - **Notice board at the home outpost:** bounties on wanted captains, castaway rescues, powder runs, trader escorts and the Book of Legends (the lost expedition).
 - **The Crimson Widow:** a rare legendary pirate ship with an elite crew. Tavern rumours tell where she sails. Beat her to unlock a unique sail, flag and emblem.
@@ -120,6 +121,7 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Puzzle jobs:** the sundial (an obelisk's shadow marks the treasure), the guardian statues (turned towards the constellations, they open the altar), a coded letter with a cipher wheel, a drowned captain's log, fish orders, lighthouses for the convoy, a serpent hunt.
 - **A big world:** 10 × 10 km, nearly 190 islands and six outposts. The sea chart zooms with the mouse wheel and pans by dragging; close up it shows the islands' hills and buildings.
 - **Crew on watch:** with nothing to do they keep a lookout at the rail and call out ships, islands, wrecks and stores running low. In danger they follow your orders.
+- **Battles and islands:** the Kraken hunts the ship and holds it fast (fight it, or flee to the shallows), the royal navy boards with uniformed marines, new cannon and pistol sounds, hills that are easier to climb. After a sinking, the spirit buoy takes you to the new ship.
 
 - **Tableau d'annonces au comptoir principal :** primes sur des capitaines recherchés, sauvetages de naufragés, transports de poudre, escortes de marchands et le Livre des légendes (l'expédition perdue).
 - **La Veuve Pourpre :** un navire pirate légendaire et rare, à l'équipage d'élite. Les rumeurs de taverne disent où elle navigue. Vainquez-la pour débloquer une voile, un pavillon et un emblème uniques.
@@ -136,6 +138,7 @@ Le jeu sauvegarde automatiquement dans le navigateur ; reprenez avec **Continuer
 - **Missions à énigmes :** le cadran solaire (l'ombre de l'obélisque désigne le trésor), les statues gardiennes (tournées vers les constellations, elles ouvrent l'autel), une lettre codée et sa roue de chiffrement, le journal d'un capitaine noyé, des commandes de poissons, des phares pour le convoi, la chasse au serpent.
 - **Un grand monde :** 10 × 10 km, près de 190 îles et six comptoirs. La carte marine se zoome à la molette et se déplace en glissant ; de près elle montre le relief et les bâtiments des îles.
 - **L'équipage de quart :** sans tâche, il veille au bastingage et signale navires, îles, épaves et provisions qui s'épuisent. En danger, il suit vos ordres.
+- **Combats et îles :** le Kraken poursuit le navire et le retient fermement (combattez-le, ou fuyez vers les hauts-fonds), la marine royale aborde avec des fusiliers en uniforme, de nouveaux sons de canon et de pistolet, des collines plus faciles à gravir. Après un naufrage, la bouée spectrale vous mène au nouveau navire.
 
 ## Kézikönyv / Manual / Manuel
 
